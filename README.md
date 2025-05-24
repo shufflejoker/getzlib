@@ -1,4 +1,22 @@
-# getzlib
+# GetZlib
+
+查看 Z-Library 的最新官网地址
+
+[https://getzlib.com/](https://getzlib.com/)
+
+## 最新官网地址
+
+[https://z-library.sk](https://z-library.sk)
+
+## 神奇邮箱
+
+<a href="mailto:blackbox@zbox.ph">blackbox@zbox.ph</a>
+
+## Android App
+
+[https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk](https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk)
+
+# GetZlib fro English
 
 Find the latest working links to Z-Library
 
@@ -10,4 +28,11 @@ Find the latest working links to Z-Library
 
 ## Magic Email
 
-blackbox@zbox.ph
+<a href="mailto:blackbox@zbox.ph">blackbox@zbox.ph</a>
+
+## Android App
+
+[https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk](https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk)
+
+
+
