@@ -8,11 +8,11 @@
 
 ## 最新官网地址
 
-[https://z-library.sk](https://z-library.sk)
+[https://z-library.ec](https://z-library.ec)
 
 ## 神奇邮箱
 
-<a href="mailto:blackbox@zbox.ph">blackbox@zbox.ph</a>
+<a href="mailto:blackbox@z-library.so">blackbox@z-library.so</a>
 
 ## Android App
 
@@ -26,11 +26,11 @@ Find the latest working links to Z-Library
 
 ## Latest Working Domains
 
-[https://z-library.sk](https://z-library.sk)
+[https://z-library.ec](https://z-library.ec)
 
 ## Magic Email
 
-<a href="mailto:blackbox@zbox.ph">blackbox@zbox.ph</a>
+<a href="mailto:blackbox@z-library.so">blackbox@z-library.so</a>
 
 ## Android App
 
