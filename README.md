@@ -1,40 +1,48 @@
-![https://getzlib.com/](https://github.com/user-attachments/assets/0e877462-823e-4596-8371-a4046a6345f1)
+<div align="center">
 
-# GetZlib
+# GetZLib — Latest Z-Library Website, Link, Magic Email & App Downloads
 
-查看 Z-Library 的最新官网地址
+**A simple guide to finding current Z-Library access information.**
 
-[https://getzlib.com/](https://getzlib.com/)
+[English](./README.md) · [简体中文](./README.zh-CN.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md)
 
-## 最新官网地址
+</div>
 
-[https://z-library.ec](https://z-library.ec)
+> [!IMPORTANT]
+> Z-Library website addresses, Magic Email details, and app download information may change at any time. Visit **[GetZLib.com](https://getzlib.com/)** for the latest content.
 
-## 神奇邮箱
+<div align="center">
 
-<a href="mailto:blackbox@z-library.so">blackbox@z-library.so</a>
+[Latest Z-Library Website](https://getzlib.com/) · [Magic Email](https://getzlib.com/magic-email) · [App Download](https://getzlib.com/app/android) · [Z-Library Guides](https://getzlib.com/blog)
 
-## Android App
+</div>
 
-[https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk](https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk)
+![GetZLib — latest Z-Library website, Magic Email, and app downloads](./assets/screenshot.png)
 
-# GetZlib fro English
+## Find Z-Library with GetZLib
 
-Find the latest working links to Z-Library
+GetZLib is an independent guide for readers looking for the Z-Library official
+website, the latest Z-Library link, a current Z Library address, Magic Email
+instructions, or Z-Library app downloads. Instead of searching through outdated
+domains, visit [GetZLib.com](https://getzlib.com/) for current access information
+and practical guides in one place.
 
-[https://getzlib.com/](https://getzlib.com/)
+## Get the latest Z-Library website and address
 
-## Latest Working Domains
+Z-Library addresses can change, so a link copied into a static README may quickly
+become outdated. The [GetZLib homepage](https://getzlib.com/) is the main landing
+page for the latest website information and supported access methods. Bookmark it
+and return whenever you need to check the current Z-Library address.
 
-[https://z-library.ec](https://z-library.ec)
+## Z-Library Magic Email and app downloads
 
-## Magic Email
+Use the [Magic Email guide](https://getzlib.com/magic-email) to learn how the
+personal access-link method works. For mobile or desktop access, start with the
+[Z-Library Android app page](https://getzlib.com/app/android), then find dedicated
+guidance for Windows, macOS, and Linux on GetZLib.
 
-<a href="mailto:blackbox@z-library.so">blackbox@z-library.so</a>
+## Disclaimer
 
-## Android App
-
-[https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk](https://s3proxy.cdn-zlib.sk/te_public_files/soft/android/zlibrary-app-latest.apk)
-
-
-
+GetZLib is an independent information project and is not operated by or
+affiliated with Z-Library. GetZLib does not host books. Use third-party services
+responsibly and follow the laws and copyright rules that apply in your location.
